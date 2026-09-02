@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Beginner Tutor"
+  short_description: "用中文循序讲解 Java 基础、作业、调试与代码追踪"
+  default_prompt: "Use $java-beginner-tutor to explain this Java problem step by step for a beginner."
